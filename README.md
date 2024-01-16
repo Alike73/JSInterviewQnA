@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
-    <img src="./images/collab/logo1.png" alt="my Logo" width="100" height="50">
+    <img src="./images/collab/logo1.png" alt="my Logo" width="100">
   </a>
   <p align="center">
     <ol>
