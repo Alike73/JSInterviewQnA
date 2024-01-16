@@ -3,7 +3,7 @@
 # Enhance your proficiency in JavaScript interview questions and answers.
 
 <p align="center">
-  <a href=https://github.com/Alike73 target=_blank>
+  <a href=https://github.com/Alike73 target="_blank">
     <img src="./images/collab/logo1.png" alt="my Logo" width="80">
   </a>
 </p>
