@@ -10,13 +10,13 @@
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
     <img src="./images/collab/logo1.png" alt="my Logo" width="80">
   </a>
-  <p align="center">
+  <!-- <p align="center">
     <ol>
     <li>Take this <a href=https://links.zerotomastery.io/jsp_sudheer>JavaScript Projects</a> course to go from a JS beginner to confidently building your own projects</li>
     <li>Take this <a href=https://links.zerotomastery.io/mci_sudheer2>coding interview bootcamp</a> if you’re serious about getting hired and don’t have a CS degree</li>
     <li>Take this <a href=https://links.zerotomastery.io/ajs_sudheer>Advanced JavaScript Course</a> to learn advanced JS concepts and become a top JS developer</li>
     </ol>
-  </p>
+  </p> -->
 </p>
 
 ---
