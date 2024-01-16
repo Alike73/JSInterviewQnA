@@ -1,6 +1,6 @@
 ![JavaScript Interview Questions & Answers](./images/collab/SJ-Questions-Git-BG.jpg)
 
-# JavaScript Interview Questions & Answers
+# Enhance your proficiency in JavaScript interview questions and answers.
 
 > Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
-    <img src="./images/collab/logo1.png" alt="my Logo" width="100">
+    <img src="./images/collab/logo1.png" alt="my Logo" width="80">
   </a>
   <p align="center">
     <ol>
