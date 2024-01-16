@@ -3,7 +3,7 @@
 # Enhance your proficiency in JavaScript interview questions and answers.
 
 <p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
+  <a href=https://github.com/Alike73>
     <img src="./images/collab/logo1.png" alt="my Logo" width="80">
   </a>
 </p>
